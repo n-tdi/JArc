@@ -1,0 +1,7 @@
+name: Arc
+version: '${project.version}'
+main: world.ntdi.arc.Arc
+api-version: '1.20'
+commands:
+  arc:
+    description: "Make an arc!"
